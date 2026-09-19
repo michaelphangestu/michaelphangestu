@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Halo,%20Saya%20Michael%20Phangestu&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">Michael Phangestu</h1>
+<h1 align="center">mikep</h1>
 <p align="center">Peserta Workshop Git & GitHub</p>
 
 ---
@@ -44,11 +44,7 @@
 
 ---
 
-### GitHub Stats (opsional)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 <!--
   Ganti "USERNAME_KAMU" dengan username GitHub kamu.
